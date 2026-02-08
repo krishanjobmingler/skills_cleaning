@@ -1,0 +1,10 @@
+
+============================================================
+[2026-02-06 01:46:57] FAILED: Real estate listing databases
+ERROR: Failed to parse structured output for tool 'SkillAnalysis': Native structured output expected valid JSON for SkillAnalysis, but parsing failed: Unterminated string starting at: line 6 column 19 (char 119)..
+============================================================
+
+============================================================
+[2026-02-06 01:47:20] FAILED: Training software
+ERROR: Failed to parse structured output for tool 'SkillAnalysis': Native structured output expected valid JSON for SkillAnalysis, but parsing failed: Unterminated string starting at: line 6 column 19 (char 119)..
+============================================================

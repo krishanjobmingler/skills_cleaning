@@ -1,0 +1,287 @@
+[2026-02-06 02:12:27] ============================================================
+[2026-02-06 02:12:27] SYNC SKILLS TO LIVE DB
+[2026-02-06 02:12:27] Start: 2026-02-06 02:12:27
+[2026-02-06 02:12:27] Mode: LIVE
+[2026-02-06 02:12:27] Action Filter: ALL
+[2026-02-06 02:12:27] ============================================================
+[2026-02-06 02:12:27] Total processed skills: 8778
+[2026-02-06 02:14:16] ============================================================
+[2026-02-06 02:14:16] SYNC SKILLS TO LIVE DB
+[2026-02-06 02:14:16] Start: 2026-02-06 02:14:16
+[2026-02-06 02:14:16] Mode: LIVE
+[2026-02-06 02:14:16] Action Filter: ALL
+[2026-02-06 02:14:16] ============================================================
+[2026-02-06 02:14:16] Total processed skills: 8778
+[2026-02-06 02:14:23] Existing skills in production: 8778
+[2026-02-06 02:14:23] 
+------------------------------------------------------------
+[2026-02-06 02:14:23] PROCESSING SKILLS
+[2026-02-06 02:14:23] ------------------------------------------------------------
+[2026-02-06 02:14:23] 
+[UPDATE ALIASES] 'Audacity' (ID: 69822a6a5630b960ba6d37b4)
+[2026-02-06 02:14:23]   -> Aliases: ['Audacity Audio', 'Audacity Software', 'Audacity Editor']
+[2026-02-06 02:14:23]   -> Updated successfully
+[2026-02-06 02:14:23] 
+[CREATE] 'Adobe Audition' (from similar tools of 'Audacity')
+[2026-02-06 02:14:24]   -> Created successfully
+[2026-02-06 02:14:24] 
+[CREATE] 'GarageBand' (from similar tools of 'Audacity')
+[2026-02-06 02:14:25]   -> Created successfully
+[2026-02-06 02:14:25] 
+[CREATE] 'Reaper' (from similar tools of 'Audacity')
+[2026-02-06 02:14:25]   -> Created successfully
+[2026-02-06 02:14:25] 
+[CREATE] 'FL Studio' (from similar tools of 'Audacity')
+[2026-02-06 02:14:26]   -> Created successfully
+[2026-02-06 02:14:26] 
+[CREATE] 'Sound Forge' (from similar tools of 'Audacity')
+[2026-02-06 02:14:27]   -> Created successfully
+[2026-02-06 02:14:27] 
+[CREATE] 'Ableton Live' (from similar tools of 'Audacity')
+[2026-02-06 02:14:28]   -> Created successfully
+[2026-02-06 02:14:28] 
+[UPDATE ALIASES] 'Skype' (ID: 69822a6a5630b960ba6d37bf)
+[2026-02-06 02:14:28]   -> Aliases: ['Skype for Business', 'Skype Desktop', 'Skype App', 'Skype Messenger']
+[2026-02-06 02:14:28]   -> Updated successfully
+[2026-02-06 02:14:28] 
+[CREATE] 'Zoom' (from similar tools of 'Skype')
+[2026-02-06 02:14:29]   -> Created successfully
+[2026-02-06 02:14:29] 
+[CREATE] 'Microsoft Teams' (from similar tools of 'Skype')
+[2026-02-06 02:14:29]   -> Created successfully
+[2026-02-06 02:14:29] 
+[CREATE] 'Google Meet' (from similar tools of 'Skype')
+[2026-02-06 02:14:30]   -> Created successfully
+[2026-02-06 02:14:30] 
+[CREATE] 'Discord' (from similar tools of 'Skype')
+[2026-02-06 02:14:31]   -> Created successfully
+[2026-02-06 02:14:31] 
+[CREATE] 'Webex' (from similar tools of 'Skype')
+[2026-02-06 02:14:31]   -> Created successfully
+[2026-02-06 02:14:31] 
+[UPDATE NAME] 'Faux Labs Splashup' -> 'Splashup' (ID: 69822a6a5630b960ba6d37a9)
+[2026-02-06 02:14:31]   -> Aliases: ['Splashup Editor', 'Faux Labs Splashup', 'Splashup Light']
+[2026-02-06 02:14:32]   -> Updated successfully
+[2026-02-06 02:14:32] 
+[CREATE] 'Adobe Photoshop' (from similar tools of 'Faux Labs Splashup')
+[2026-02-06 02:14:33]   -> Created successfully
+[2026-02-06 02:14:33] 
+[CREATE] 'Pixlr' (from similar tools of 'Faux Labs Splashup')
+[2026-02-06 02:14:33]   -> Created successfully
+[2026-02-06 02:14:33] 
+[CREATE] 'GIMP' (from similar tools of 'Faux Labs Splashup')
+[2026-02-06 02:14:34]   -> Created successfully
+[2026-02-06 02:14:34] 
+[CREATE] 'Canva' (from similar tools of 'Faux Labs Splashup')
+[2026-02-06 02:14:35]   -> Created successfully
+[2026-02-06 02:14:35] 
+[CREATE] 'PicMonkey' (from similar tools of 'Faux Labs Splashup')
+[2026-02-06 02:14:36]   -> Created successfully
+[2026-02-06 02:14:36] 
+[CREATE] 'Sumo Paint' (from similar tools of 'Faux Labs Splashup')
+[2026-02-06 02:14:36]   -> Created successfully
+[2026-02-06 02:14:36] 
+[CREATE] 'Figma' (from similar tools of 'Faux Labs Splashup')
+[2026-02-06 02:14:37]   -> Created successfully
+[2026-02-06 02:14:37] 
+[UPDATE ALIASES] 'Blackboard Collaborate' (ID: 69822a6a5630b960ba6d37ba)
+[2026-02-06 02:14:37]   -> Aliases: ['Blackboard Collaborate Ultra', 'BB Collaborate', 'Blackboard Web Conferencing', 'Collaborate Ultra']
+[2026-02-06 02:14:37]   -> Updated successfully
+[2026-02-06 02:14:37] 
+[CREATE] 'Cisco Webex' (from similar tools of 'Blackboard Collaborate')
+[2026-02-06 02:14:38]   -> Created successfully
+[2026-02-06 02:14:38] 
+[CREATE] 'BigBlueButton' (from similar tools of 'Blackboard Collaborate')
+[2026-02-06 02:14:39]   -> Created successfully
+[2026-02-06 02:14:39] 
+[CREATE] 'Adobe Connect' (from similar tools of 'Blackboard Collaborate')
+[2026-02-06 02:14:39]   -> Created successfully
+[2026-02-06 02:14:39] 
+[CREATE] 'Canvas Studio' (from similar tools of 'Blackboard Collaborate')
+[2026-02-06 02:14:40]   -> Created successfully
+[2026-02-06 02:14:40] 
+[UPDATE ALIASES] 'WideOrbit' (ID: 69822a6a5630b960ba6d37b8)
+[2026-02-06 02:14:40]   -> Aliases: ['WideOrbit Traffic', 'WO Traffic', 'WideOrbit Network', 'WO Network']
+[2026-02-06 02:14:41]   -> Updated successfully
+[2026-02-06 02:14:41] 
+[CREATE] 'Marketron' (from similar tools of 'WideOrbit')
+[2026-02-06 02:14:41]   -> Created successfully
+[2026-02-06 02:14:41] 
+[CREATE] 'Imagine Communications' (from similar tools of 'WideOrbit')
+[2026-02-06 02:14:42]   -> Created successfully
+[2026-02-06 02:14:42] 
+[CREATE] 'RCS Zetta' (from similar tools of 'WideOrbit')
+[2026-02-06 02:14:43]   -> Created successfully
+[2026-02-06 02:14:43] 
+[CREATE] 'Mediaocean' (from similar tools of 'WideOrbit')
+[2026-02-06 02:14:44]   -> Created successfully
+[2026-02-06 02:14:44] 
+[CREATE] 'Strata' (from similar tools of 'WideOrbit')
+[2026-02-06 02:14:44]   -> Created successfully
+[2026-02-06 02:14:44] 
+[CREATE] 'iHeartMedia GSelector' (from similar tools of 'WideOrbit')
+[2026-02-06 02:14:45]   -> Created successfully
+[2026-02-06 02:14:45] 
+[UPDATE NAME] 'Avid Technology Media Composer' -> 'Avid Media Composer' (ID: 69822a6a5630b960ba6d37b5)
+[2026-02-06 02:14:45]   -> Aliases: ['Media Composer', 'Avid', 'Avid MC', 'Avid Media Composer Ultimate']
+[2026-02-06 02:14:45]   -> Updated successfully
+[2026-02-06 02:14:45] 
+[CREATE] 'Adobe Premiere Pro' (from similar tools of 'Avid Technology Media Composer')
+[2026-02-06 02:14:46]   -> Created successfully
+[2026-02-06 02:14:46] 
+[CREATE] 'Final Cut Pro' (from similar tools of 'Avid Technology Media Composer')
+[2026-02-06 02:14:47]   -> Created successfully
+[2026-02-06 02:14:47] 
+[CREATE] 'DaVinci Resolve' (from similar tools of 'Avid Technology Media Composer')
+[2026-02-06 02:14:48]   -> Created successfully
+[2026-02-06 02:14:48] 
+[CREATE] 'Lightworks' (from similar tools of 'Avid Technology Media Composer')
+[2026-02-06 02:14:48]   -> Created successfully
+[2026-02-06 02:14:48] 
+[CREATE] 'Edius' (from similar tools of 'Avid Technology Media Composer')
+[2026-02-06 02:14:49]   -> Created successfully
+[2026-02-06 02:14:49] 
+[UPDATE ALIASES] 'PsyScope' (ID: 69822a6a5630b960ba6d3776)
+[2026-02-06 02:14:49]   -> Aliases: ['PsyScope X', 'PsyScope software', 'PsyScope experiment builder']
+[2026-02-06 02:14:49]   -> Updated successfully
+[2026-02-06 02:14:49] 
+[CREATE] 'E-Prime' (from similar tools of 'PsyScope')
+[2026-02-06 02:14:50]   -> Created successfully
+[2026-02-06 02:14:50] 
+[CREATE] 'PsychoPy' (from similar tools of 'PsyScope')
+[2026-02-06 02:14:51]   -> Created successfully
+[2026-02-06 02:14:51] 
+[CREATE] 'OpenSesame' (from similar tools of 'PsyScope')
+[2026-02-06 02:14:52]   -> Created successfully
+[2026-02-06 02:14:52] 
+[CREATE] 'Presentation' (from similar tools of 'PsyScope')
+[2026-02-06 02:14:52]   -> Created successfully
+[2026-02-06 02:14:52] 
+[CREATE] 'SuperLab' (from similar tools of 'PsyScope')
+[2026-02-06 02:14:53]   -> Created successfully
+[2026-02-06 02:14:53] 
+[CREATE] 'Inquisit' (from similar tools of 'PsyScope')
+[2026-02-06 02:14:54]   -> Created successfully
+[2026-02-06 02:14:54] 
+[CREATE] 'Gorilla Experiment Builder' (from similar tools of 'PsyScope')
+[2026-02-06 02:14:54]   -> Created successfully
+[2026-02-06 02:14:54] 
+[UPDATE ALIASES] 'Panopto' (ID: 69822a6a5630b960ba6d37a1)
+[2026-02-06 02:14:54]   -> Aliases: ['Panopto Video', 'Panopto CMS', 'Panopto Recorder', 'Panopto Platform']
+[2026-02-06 02:14:55]   -> Updated successfully
+[2026-02-06 02:14:55] 
+[CREATE] 'Kaltura' (from similar tools of 'Panopto')
+[2026-02-06 02:14:56]   -> Created successfully
+[2026-02-06 02:14:56] 
+[CREATE] 'Echo360' (from similar tools of 'Panopto')
+[2026-02-06 02:14:56]   -> Created successfully
+[2026-02-06 02:14:56] 
+[CREATE] 'Loom' (from similar tools of 'Panopto')
+[2026-02-06 02:14:57]   -> Created successfully
+[2026-02-06 02:14:57] 
+[CREATE] 'Microsoft Stream' (from similar tools of 'Panopto')
+[2026-02-06 02:14:58]   -> Created successfully
+[2026-02-06 02:14:58] 
+[CREATE] 'YuJa' (from similar tools of 'Panopto')
+[2026-02-06 02:14:59]   -> Created successfully
+[2026-02-06 02:14:59] 
+[UPDATE NAME] 'Multivariate Software EQS' -> 'EQS' (ID: 69822a6a5630b960ba6d3771)
+[2026-02-06 02:14:59]   -> Aliases: ['EQS Software', 'EQS SEM', 'Multivariate Software EQS']
+[2026-02-06 02:14:59]   -> Updated successfully
+[2026-02-06 02:14:59] 
+[CREATE] 'LISREL' (from similar tools of 'Multivariate Software EQS')
+[2026-02-06 02:15:00]   -> Created successfully
+[2026-02-06 02:15:00] 
+[CREATE] 'AMOS' (from similar tools of 'Multivariate Software EQS')
+[2026-02-06 02:15:00]   -> Created successfully
+[2026-02-06 02:15:00] 
+[CREATE] 'Mplus' (from similar tools of 'Multivariate Software EQS')
+[2026-02-06 02:15:01]   -> Created successfully
+[2026-02-06 02:15:01] 
+[CREATE] 'Stata' (from similar tools of 'Multivariate Software EQS')
+[2026-02-06 02:15:02]   -> Created successfully
+[2026-02-06 02:15:02] 
+[CREATE] 'lavaan' (from similar tools of 'Multivariate Software EQS')
+[2026-02-06 02:15:03]   -> Created successfully
+[2026-02-06 02:15:03] 
+[CREATE] 'SmartPLS' (from similar tools of 'Multivariate Software EQS')
+[2026-02-06 02:15:03]   -> Created successfully
+[2026-02-06 02:15:03] 
+[CREATE] 'SAS CALIS' (from similar tools of 'Multivariate Software EQS')
+[2026-02-06 02:15:04]   -> Created successfully
+[2026-02-06 02:15:04] 
+[UPDATE NAME] 'Autodesk MotionBuilder' -> 'MotionBuilder' (ID: 69822a6a5630b960ba6d37a8)
+[2026-02-06 02:15:04]   -> Aliases: ['MotionBuilder', 'Motion Builder', 'Autodesk MB', 'MB']
+[2026-02-06 02:15:04]   -> Updated successfully
+[2026-02-06 02:15:04] 
+[CREATE] '3ds Max' (from similar tools of 'Autodesk MotionBuilder')
+[2026-02-06 02:15:05]   -> Created successfully
+[2026-02-06 02:15:05] 
+[CREATE] 'iClone' (from similar tools of 'Autodesk MotionBuilder')
+[2026-02-06 02:15:06]   -> Created successfully
+[2026-02-06 02:15:06] 
+[CREATE] 'Cascadeur' (from similar tools of 'Autodesk MotionBuilder')
+[2026-02-06 02:15:56] ============================================================
+[2026-02-06 02:15:56] SYNC SKILLS TO LIVE DB (FAST MODE)
+[2026-02-06 02:15:56] Start: 2026-02-06 02:15:56
+[2026-02-06 02:15:56] Mode: LIVE
+[2026-02-06 02:15:56] Action Filter: ALL
+[2026-02-06 02:15:56] ============================================================
+[2026-02-06 02:15:56] Fetching processed skills from local DB...
+[2026-02-06 02:15:56] Total processed skills: 8778
+[2026-02-06 02:15:56] Fetching existing skills from production...
+[2026-02-06 02:16:04] Existing skills in production: 8831
+[2026-02-06 02:16:04] 
+Preparing operations...
+[2026-02-06 02:16:04] 
+Operations prepared:
+[2026-02-06 02:16:04]   - DELETE: 34 skills
+[2026-02-06 02:16:04]   - UPDATE: 8638 skills
+[2026-02-06 02:16:04]   - CREATE: 16616 new skills
+[2026-02-06 02:16:04] 
+Executing operations concurrently...
+[2026-02-06 02:17:06]   DELETE: 34 completed
+[2026-02-06 02:17:06]   UPDATE: 8638 completed
+[2026-02-06 02:17:06]   CREATE: 16616 completed
+[2026-02-06 02:17:06] 
+============================================================
+[2026-02-06 02:17:06] SUMMARY
+[2026-02-06 02:17:06] ============================================================
+[2026-02-06 02:17:06] Total processed: 8778
+[2026-02-06 02:17:06] Delete operations: 34
+[2026-02-06 02:17:06] Update operations: 8638
+[2026-02-06 02:17:06] Create operations: 16616
+[2026-02-06 02:17:06] Duration: 70.17s
+[2026-02-06 02:17:06] ============================================================
+[2026-02-07 21:24:46] ============================================================
+[2026-02-07 21:24:46] SYNC SKILLS TO LIVE DB (FAST MODE)
+[2026-02-07 21:24:46] Start: 2026-02-07 21:24:46
+[2026-02-07 21:24:46] Mode: LIVE
+[2026-02-07 21:24:46] Action Filter: ALL
+[2026-02-07 21:24:46] ============================================================
+[2026-02-07 21:24:46] Fetching processed skills from local DB...
+[2026-02-07 21:24:46] Total processed skills: 8778
+[2026-02-07 21:24:46] Fetching existing skills from production...
+[2026-02-07 21:24:56] Existing skills in production: 8778
+[2026-02-07 21:24:56] 
+Preparing operations...
+[2026-02-07 21:24:56] 
+Operations prepared:
+[2026-02-07 21:24:56]   - DELETE: 34 skills
+[2026-02-07 21:24:56]   - UPDATE: 8638 skills
+[2026-02-07 21:24:56]   - CREATE: 16672 new skills
+[2026-02-07 21:24:56] 
+Executing operations concurrently...
+[2026-02-07 21:26:00]   DELETE: 34 completed
+[2026-02-07 21:26:00]   UPDATE: 8638 completed
+[2026-02-07 21:26:00]   CREATE: 16672 completed
+[2026-02-07 21:26:00] 
+============================================================
+[2026-02-07 21:26:00] SUMMARY
+[2026-02-07 21:26:00] ============================================================
+[2026-02-07 21:26:00] Total processed: 8778
+[2026-02-07 21:26:00] Delete operations: 34
+[2026-02-07 21:26:00] Update operations: 8638
+[2026-02-07 21:26:00] Create operations: 16672
+[2026-02-07 21:26:00] Duration: 73.61s
+[2026-02-07 21:26:00] ============================================================
